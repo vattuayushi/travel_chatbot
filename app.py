@@ -15,6 +15,7 @@ def index():
 @app.route('/chat', methods=['POST'])
 def chat():
     user_message = request.json['message']
+    # adding extra space
 
     itinerary_match = re.search(r'(\d+)[-\s]?day', user_message.lower())
     is_itinerary = bool(itinerary_match)
