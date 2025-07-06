@@ -1,0 +1,25 @@
+
+
+goto your github account
+create new repo
+    - give name to the repo
+    - make it public or private repo
+    - do not select .gitignore or readme file
+    - click on apply / save
+
+verify repo is created ??
+
+Clone repo
+=============
+
+copy the gitrepo path, 3 types but you copy https / url
+
+open pycharm / intellij - make sure you are in parent folder like pycharmProject or IntelliJProject
+
+verify current directory - run command - pwd (it gives present working directory)
+
+run command - git clone {url_that_you_copied}
+
+close your IDE and reopen again
+
+select the newly created folder
