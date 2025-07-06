@@ -1,3 +1,8 @@
 Flask
 requests
 load_dotenv
+
+# move to main project - C:\Users\Ayushi\PycharmProjects
+# git clone https://github.com/purwarshubham/travel_chatbot.git (other user / same user)
+
+#
